@@ -163,13 +163,7 @@ footer {
     box-sizing: border-box;
 }
 
-.contenedor-tabla {
-    text-align: center;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .imagen-tabla {
    width: 800px;
     height: 100px;
