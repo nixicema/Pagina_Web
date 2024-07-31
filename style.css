@@ -173,9 +173,11 @@ footer {
 .imagen-tabla {
    width: 800px;
     height: 100px;
+    text-align: center;
 }
 
-
-
+.ecuaciones {
+     text-align: center;
+}
 
 
